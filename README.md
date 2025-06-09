@@ -19,3 +19,5 @@ Moreover, you can also find:
 - `graphs.ipynb` — the notebook from which the graphs shown in my thesis are obtained
 
 Thanks for visiting this repository!
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29qeXFmNmF5cTBxaHl3NmU3b3k0bnJqcTBla2k1ZjFtMTl3bGoybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsBz0oSJ1botYaLqAR/giphy.gif" width="4000" height="100" />
